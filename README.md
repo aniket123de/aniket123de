@@ -99,17 +99,6 @@
   <img src="https://img.shields.io/github/stars/aniket123de?color=yellow&style=flat-square" alt="Stars" />
 </p>
 
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/aniket123de/apk_tradeyogi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aniket123de&repo=project1&theme=radical" />
-  </a>
-  <a href="https://github.com/aniket123de/LokSeva">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aniket123de&repo=project2&theme=radical" />
-  </a>
-</div>
-
 ## 🎵 Vibing To
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/aniket123de)
 
@@ -119,13 +108,5 @@
 
 ---
 
----
-
-### ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
----
 
 ⭐ From [Aniket D.](https://github.com/aniket123de)
