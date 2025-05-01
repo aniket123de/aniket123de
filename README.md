@@ -102,10 +102,10 @@
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://lok-seva.vercel.app/">
+  <a href="https://github.com/aniket123de/apk_tradeyogi">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aniket123de&repo=project1&theme=radical" />
   </a>
-  <a href="https://apk-tradeyogi.vercel.app/">
+  <a href="https://github.com/aniket123de/LokSeva">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aniket123de&repo=project2&theme=radical" />
   </a>
 </div>
