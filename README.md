@@ -88,9 +88,6 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket123de&layout=compact&theme=radical&hide_border=true" />
   
-  <a href="https://github.com/aniket123de">
-    <img src="https://github-profile-trophy.vercel.app/?username=aniket123de&theme=radical&no-frame=true&column=7" width="98%" />
-  </a>
 </div>
 
 ![Aniket's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aniket123de&theme=redical&hide_border=true&area=true)
@@ -105,10 +102,10 @@
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/aniket123de/project1">
+  <a href="https://lok-seva.vercel.app/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aniket123de&repo=project1&theme=radical" />
   </a>
-  <a href="https://github.com/aniket123de/project2">
+  <a href="https://apk-tradeyogi.vercel.app/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aniket123de&repo=project2&theme=radical" />
   </a>
 </div>
@@ -121,10 +118,6 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/aniket123de/aniket123de/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
