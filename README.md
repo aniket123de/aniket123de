@@ -85,10 +85,10 @@
   <a href="https://github.com/aniket123de">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket123de&theme=radical&hide_border=true" width="49%" />
   </a>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket123de&layout=compact&theme=radical&hide_border=true" />
   
 </div>
-
-![Aniket's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aniket123de&theme=redical&hide_border=true&area=true)
 
 ## 🏆 Achievements
 <p align="center">
