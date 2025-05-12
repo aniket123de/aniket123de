@@ -17,7 +17,7 @@
 - 🔭 I'm currently working on **improving my full-stack development skills**
 - 🌱 I'm currently learning **Advanced JavaScript and React**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, Programming, and Tech**
+- 💬 Ask me about **Web Dev, ML, and DSA**
 - ⚡ Fun fact: **I debug with print statements like it's 1999**
 
 ## 🛠️ Tech Stack
