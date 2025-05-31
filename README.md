@@ -11,9 +11,9 @@
   <a href="https://github.com/aniket123de"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnc3a2R5NXppZjQzYXN1d29ldmhpamk2M2MyNmV0ZjV3cm80dnh1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif">
-
 ## 💫 About Me
+
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnc3a2R5NXppZjQzYXN1d29ldmhpamk2M2MyNmV0ZjV3cm80dnh1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif">
 - 🔭 I'm currently working on **improving my full-stack development skills**
 - 🌱 I'm currently learning **Advanced JavaScript and React**
 - 👯 I'm looking to collaborate on **Open Source Projects**
