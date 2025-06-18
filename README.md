@@ -1,10 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello World! I'm Aniket D.
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=440&lines=🎓+B.Tech+Student;💻+Full-Stack+Developer;🌍+West+Bengal%2C+India;🚀+Building+cool+stuff+with+code" alt="Typing SVG" />
-</div>
-
----
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello World! I'm Aniket D.
 
@@ -15,16 +9,38 @@
 ---
 
 <div align="center">
-  
-  ### 🌐 Connect with me
-  
+🌐 Let's Connect & Collaborate
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <a href="https://twitter.com/AnkieDe1">
+          <img src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+          <br><sub><b>@AnkieDe1</b></sub>
+        </a>
+      </td>
+      <td align="center" width="25%">
+        <a href="https://www.linkedin.com/in/aniket-de-505362287">
+          <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+          <br><sub><b>Professional Network</b></sub>
+        </a>
+      </td>
+      <td align="center" width="25%">
+        <a href="https://www.instagram.com/aweniket">
+          <img src="https://img.shields.io/badge/Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+          <br><sub><b>@aweniket</b></sub>
+        </a>
+      </td>
+      <td align="center" width="25%">
+        <a href="https://github.com/aniket123de">
+          <img src="https://img.shields.io/badge/Collaborate-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+          <br><sub><b>Open Source</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
   <p>
-    <a href="https://twitter.com/AnkieDe1"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
-    <a href="https://www.linkedin.com/in/aniket-de-505362287"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://www.instagram.com/aweniket"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="https://github.com/aniket123de"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <em>💡 Always open to interesting conversations and collaboration opportunities!</em>
   </p>
-  
 </div>
 
 ---
